@@ -4,5 +4,4 @@ This course by John Erik Fornaess.
 
 [The L^2 Course](https://github.com/FornaessL2course/FornaessL2course.github.io/raw/master/work10juniPerugia2020.pdf)
 
-[Course](file:///Users/jujiew/Downloads/work27juniPerugia2020%20(5).pdf)
- [Course](https://github.com/FornaessL2course/FornaessL2course.github.io/blob/master/work27juniPerugia2020.pdf)
+[Course](https://github.com/FornaessL2course/FornaessL2course.github.io/raw/master/work27juniPerugia2020.pdf)
